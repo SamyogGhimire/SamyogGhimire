@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm Samyog Ghimire, a passionate beginner in the world of DevOps.
+👋 Hi there! I'm Samyog Ghimire, a passionate beginner in the world of DevOps, Web Development and Cloud.
 
 
 ## 🌐 Socials:
