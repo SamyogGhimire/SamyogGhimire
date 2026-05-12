@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm Samyog Ghimire, a passionate beginner in the world of DevOps, Web Development and Cloud.
+Full-Stack & DevOps Engineer passionate about scalable web applications, cloud infrastructure, automation, and modern DevOps practices.
 
 
 ## 🌐 Socials:
