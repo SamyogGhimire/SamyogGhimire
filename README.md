@@ -28,6 +28,12 @@ Full-Stack & DevOps Engineer passionate about scalable web applications, cloud i
 
 ---
 
+### 💡 LeetCode Stats  
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-blue)](https://leetcode.com/u/SamyogGhimire/)  
+![LeetCode Stats](https://leetcard.jacoblin.cool/SamyogGhimire?theme=dark&font=Roboto&solved=126)  
+
+---  
+
 [![](https://visitcount.itsvg.in/api?id=SamyogGhimire&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
